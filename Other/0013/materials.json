@@ -1,0 +1,1752 @@
+[
+  {
+    "name": "CO2-45W",
+    "materials": {
+      "raster": [
+        {
+          "id": 1,
+          "name": "1/4 Acrylic (2)",
+          "properties": {
+            "speed": "1",
+            "power": "100"
+          }
+        },
+        {
+          "id": 2,
+          "name": "1/4 Hard Wood (2)",
+          "properties": {
+            "speed": "100",
+            "power": "5"
+          }
+        },
+        {
+          "id": 3,
+          "name": "1/4 Hard Wood (3)",
+          "properties": {
+            "speed": "100",
+            "power": "5"
+          }
+        },
+        {
+          "id": 4,
+          "name": "1/4 Hard Wood (4)",
+          "properties": {
+            "speed": "100",
+            "power": "40"
+          }
+        },
+        {
+          "id": 5,
+          "name": "1/4 sound Back board",
+          "properties": {
+            "speed": "30",
+            "power": "90"
+          }
+        },
+        {
+          "id": 21,
+          "name": "1/4 sound Back board (2)",
+          "properties": {
+            "speed": "30",
+            "power": "90"
+          }
+        },
+        {
+          "id": 22,
+          "name": "1/4 sound Back board (3)",
+          "properties": {
+            "speed": "30",
+            "power": "90"
+          }
+        },
+        {
+          "id": 6,
+          "name": "1/8 Acrylic (2)",
+          "properties": {
+            "speed": "100",
+            "power": "15"
+          }
+        },
+        {
+          "id": 7,
+          "name": "1/8 Baltic Birch",
+          "properties": {
+            "speed": "70",
+            "power": "60"
+          }
+        },
+        {
+          "id": 8,
+          "name": "1/8 Soft Wood (2)",
+          "properties": {
+            "speed": "100",
+            "power": "20"
+          }
+        },
+        {
+          "id": 9,
+          "name": "1/8 Soft Wood (3)",
+          "properties": {
+            "speed": "50",
+            "power": "100"
+          }
+        },
+        {
+          "id": 10,
+          "name": "1/8 Soft Wood (4)",
+          "properties": {
+            "speed": "100",
+            "power": "20"
+          }
+        },
+        {
+          "id": 11,
+          "name": "BAMBOO",
+          "properties": {
+            "speed": "60",
+            "power": "60"
+          }
+        },
+        {
+          "id": 12,
+          "name": "card",
+          "properties": {
+            "speed": "10",
+            "power": "3"
+          }
+        },
+        {
+          "id": 13,
+          "name": "ceramic mug",
+          "properties": {
+            "speed": "100",
+            "power": "45"
+          }
+        },
+        {
+          "id": 14,
+          "name": "Engraving wood",
+          "properties": {
+            "speed": "50",
+            "power": "5"
+          }
+        },
+        {
+          "id": 15,
+          "name": "Engraving wood (2)",
+          "properties": {
+            "speed": "50",
+            "power": "5"
+          }
+        },
+        {
+          "id": 16,
+          "name": "GLASS",
+          "properties": {
+            "speed": "85",
+            "power": "85"
+          }
+        },
+        {
+          "id": 17,
+          "name": "Slate Coaster",
+          "properties": {
+            "speed": "85",
+            "power": "100"
+          }
+        },
+        {
+          "id": 18,
+          "name": "thin leather",
+          "properties": {
+            "speed": "90",
+            "power": "33"
+          }
+        },
+        {
+          "id": 19,
+          "name": "thin leather (2)",
+          "properties": {
+            "speed": "90",
+            "power": "33"
+          }
+        },
+        {
+          "id": 20,
+          "name": "Tumbler",
+          "properties": {
+            "speed": "100",
+            "power": "100"
+          }
+        }
+      ],
+      "vector": [
+        {
+          "id": 97,
+          "name": "Acrylic - 10%",
+          "properties": {
+            "speed": "100",
+            "power": "10",
+            "current": "24",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 98,
+          "name": "Acrylic - 15%",
+          "properties": {
+            "speed": "100",
+            "power": "14",
+            "current": "24",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 99,
+          "name": "Acrylic - 20%",
+          "properties": {
+            "speed": "100",
+            "power": "18",
+            "current": "24",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 100,
+          "name": "Acrylic - 25%",
+          "properties": {
+            "speed": "100",
+            "power": "22",
+            "current": "24",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 101,
+          "name": "Acrylic - 30%",
+          "properties": {
+            "speed": "100",
+            "power": "26",
+            "current": "24",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 102,
+          "name": "Acrylic - 35%",
+          "properties": {
+            "speed": "100",
+            "power": "30",
+            "current": "24",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 103,
+          "name": "Acrylic - 40%",
+          "properties": {
+            "speed": "100",
+            "power": "34",
+            "current": "24",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 104,
+          "name": "Acrylic - 45%",
+          "properties": {
+            "speed": "100",
+            "power": "38",
+            "current": "24",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 105,
+          "name": "Acrylic - 50%",
+          "properties": {
+            "speed": "100",
+            "power": "42",
+            "current": "24",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 106,
+          "name": "Acrylic - 55%",
+          "properties": {
+            "speed": "100",
+            "power": "46",
+            "current": "24",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 107,
+          "name": "Acrylic - 60%",
+          "properties": {
+            "speed": "100",
+            "power": "50",
+            "current": "24",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 108,
+          "name": "Acrylic - 65%",
+          "properties": {
+            "speed": "100",
+            "power": "54",
+            "current": "24",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 109,
+          "name": "Acrylic - 70%",
+          "properties": {
+            "speed": "100",
+            "power": "58",
+            "current": "24",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 110,
+          "name": "Acrylic - 75%",
+          "properties": {
+            "speed": "100",
+            "power": "62",
+            "current": "24",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 112,
+          "name": "Acrylic - 80%",
+          "properties": {
+            "speed": "100",
+            "power": "66",
+            "current": "24",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 113,
+          "name": "Acrylic - 85%",
+          "properties": {
+            "speed": "100",
+            "power": "70",
+            "current": "24",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 114,
+          "name": "Acrylic - 90%",
+          "properties": {
+            "speed": "100",
+            "power": "74",
+            "current": "24",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 115,
+          "name": "Acrylic - 95%",
+          "properties": {
+            "speed": "100",
+            "power": "78",
+            "current": "24",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 117,
+          "name": "Acrylic - Cut 1/4",
+          "properties": {
+            "speed": "24",
+            "power": "100",
+            "current": "100",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 116,
+          "name": "Acrylic - Cut 1/8",
+          "properties": {
+            "speed": "30",
+            "power": "100",
+            "current": "100",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Baltic Birch - 10%",
+          "properties": {
+            "speed": "100",
+            "power": "10",
+            "current": "38",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 3,
+          "name": "Baltic Birch - 15%",
+          "properties": {
+            "speed": "100",
+            "power": "15",
+            "current": "38",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 4,
+          "name": "Baltic Birch - 20%",
+          "properties": {
+            "speed": "100",
+            "power": "20",
+            "current": "38",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 5,
+          "name": "Baltic Birch - 25%",
+          "properties": {
+            "speed": "100",
+            "power": "25",
+            "current": "38",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 6,
+          "name": "Baltic Birch - 30%",
+          "properties": {
+            "speed": "100",
+            "power": "30",
+            "current": "38",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 7,
+          "name": "Baltic Birch - 35%",
+          "properties": {
+            "speed": "100",
+            "power": "35",
+            "current": "38",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 8,
+          "name": "Baltic Birch - 40%",
+          "properties": {
+            "speed": "100",
+            "power": "40",
+            "current": "38",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 9,
+          "name": "Baltic Birch - 45%",
+          "properties": {
+            "speed": "100",
+            "power": "45",
+            "current": "38",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 10,
+          "name": "Baltic Birch - 50%",
+          "properties": {
+            "speed": "100",
+            "power": "50",
+            "current": "38",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 11,
+          "name": "Baltic Birch - 55%",
+          "properties": {
+            "speed": "100",
+            "power": "55",
+            "current": "38",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 12,
+          "name": "Baltic Birch - 60%",
+          "properties": {
+            "speed": "100",
+            "power": "60",
+            "current": "38",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 13,
+          "name": "Baltic Birch - 65%",
+          "properties": {
+            "speed": "100",
+            "power": "65",
+            "current": "38",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 14,
+          "name": "Baltic Birch - 70%",
+          "properties": {
+            "speed": "100",
+            "power": "70",
+            "current": "38",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 15,
+          "name": "Baltic Birch - 75%",
+          "properties": {
+            "speed": "100",
+            "power": "75",
+            "current": "38",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 16,
+          "name": "Baltic Birch - 80%",
+          "properties": {
+            "speed": "100",
+            "power": "80",
+            "current": "38",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 17,
+          "name": "Baltic Birch - 85%",
+          "properties": {
+            "speed": "100",
+            "power": "85",
+            "current": "38",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 18,
+          "name": "Baltic Birch - 90%",
+          "properties": {
+            "speed": "100",
+            "power": "90",
+            "current": "38",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 19,
+          "name": "Baltic Birch - 95%",
+          "properties": {
+            "speed": "100",
+            "power": "95",
+            "current": "38",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 118,
+          "name": "Baltic Birch - Cut 1/4",
+          "properties": {
+            "speed": "41",
+            "power": "100",
+            "current": "100",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 20,
+          "name": "Baltic Birch - Cut 1/8",
+          "properties": {
+            "speed": "47",
+            "power": "100",
+            "current": "100",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 21,
+          "name": "Card Stock - 10%",
+          "properties": {
+            "speed": "100",
+            "power": "16",
+            "current": "21",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 22,
+          "name": "Card Stock - 15%",
+          "properties": {
+            "speed": "100",
+            "power": "17",
+            "current": "21",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 23,
+          "name": "Card Stock - 20%",
+          "properties": {
+            "speed": "100",
+            "power": "18",
+            "current": "21",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 24,
+          "name": "Card Stock - 25%",
+          "properties": {
+            "speed": "100",
+            "power": "19",
+            "current": "21",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 25,
+          "name": "Card Stock - 30%",
+          "properties": {
+            "speed": "100",
+            "power": "20",
+            "current": "21",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 26,
+          "name": "Card Stock - 35%",
+          "properties": {
+            "speed": "100",
+            "power": "21",
+            "current": "21",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 27,
+          "name": "Card Stock - 40%",
+          "properties": {
+            "speed": "100",
+            "power": "22",
+            "current": "21",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 28,
+          "name": "Card Stock - 45%",
+          "properties": {
+            "speed": "100",
+            "power": "23",
+            "current": "21",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 29,
+          "name": "Card Stock - 50%",
+          "properties": {
+            "speed": "100",
+            "power": "24",
+            "current": "21",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 30,
+          "name": "Card Stock - 55%",
+          "properties": {
+            "speed": "100",
+            "power": "25",
+            "current": "21",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 31,
+          "name": "Card Stock - 60%",
+          "properties": {
+            "speed": "100",
+            "power": "26",
+            "current": "21",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 32,
+          "name": "Card Stock - 65%",
+          "properties": {
+            "speed": "100",
+            "power": "27",
+            "current": "21",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 33,
+          "name": "Card Stock - 70%",
+          "properties": {
+            "speed": "100",
+            "power": "28",
+            "current": "21",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 34,
+          "name": "Card Stock - 75%",
+          "properties": {
+            "speed": "100",
+            "power": "29",
+            "current": "21",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 35,
+          "name": "Card Stock - 80%",
+          "properties": {
+            "speed": "100",
+            "power": "30",
+            "current": "21",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 36,
+          "name": "Card Stock - 85%",
+          "properties": {
+            "speed": "100",
+            "power": "31",
+            "current": "21",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 37,
+          "name": "Card Stock - 90%",
+          "properties": {
+            "speed": "100",
+            "power": "32",
+            "current": "21",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 38,
+          "name": "Card Stock - 95%",
+          "properties": {
+            "speed": "100",
+            "power": "33",
+            "current": "21",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 39,
+          "name": "Card Stock - Cut",
+          "properties": {
+            "speed": "100",
+            "power": "30",
+            "current": "50",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 40,
+          "name": "Cardboard - 10%",
+          "properties": {
+            "speed": "100",
+            "power": "30",
+            "current": "17",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 41,
+          "name": "Cardboard - 15%",
+          "properties": {
+            "speed": "100",
+            "power": "33",
+            "current": "17",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 42,
+          "name": "Cardboard - 20%",
+          "properties": {
+            "speed": "100",
+            "power": "36",
+            "current": "17",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 43,
+          "name": "Cardboard - 25%",
+          "properties": {
+            "speed": "100",
+            "power": "39",
+            "current": "17",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 44,
+          "name": "Cardboard - 30%",
+          "properties": {
+            "speed": "100",
+            "power": "42",
+            "current": "17",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 45,
+          "name": "Cardboard - 35%",
+          "properties": {
+            "speed": "100",
+            "power": "45",
+            "current": "17",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 46,
+          "name": "Cardboard - 40%",
+          "properties": {
+            "speed": "100",
+            "power": "48",
+            "current": "17",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 47,
+          "name": "Cardboard - 45%",
+          "properties": {
+            "speed": "100",
+            "power": "51",
+            "current": "17",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 48,
+          "name": "Cardboard - 50%",
+          "properties": {
+            "speed": "100",
+            "power": "54",
+            "current": "17",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 49,
+          "name": "Cardboard - 55%",
+          "properties": {
+            "speed": "100",
+            "power": "57",
+            "current": "17",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 50,
+          "name": "Cardboard - 60%",
+          "properties": {
+            "speed": "100",
+            "power": "60",
+            "current": "17",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 51,
+          "name": "Cardboard - 65%",
+          "properties": {
+            "speed": "100",
+            "power": "63",
+            "current": "17",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 52,
+          "name": "Cardboard - 70%",
+          "properties": {
+            "speed": "100",
+            "power": "66",
+            "current": "17",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 53,
+          "name": "Cardboard - 75%",
+          "properties": {
+            "speed": "100",
+            "power": "69",
+            "current": "17",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 54,
+          "name": "Cardboard - 80%",
+          "properties": {
+            "speed": "100",
+            "power": "72",
+            "current": "17",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 55,
+          "name": "Cardboard - 85%",
+          "properties": {
+            "speed": "100",
+            "power": "75",
+            "current": "17",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 56,
+          "name": "Cardboard - 90%",
+          "properties": {
+            "speed": "100",
+            "power": "78",
+            "current": "17",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 57,
+          "name": "Cardboard - 95%",
+          "properties": {
+            "speed": "100",
+            "power": "81",
+            "current": "17",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 58,
+          "name": "Cardboard - Cut",
+          "properties": {
+            "speed": "100",
+            "power": "30",
+            "current": "85",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 78,
+          "name": "Cork - 10%",
+          "properties": {
+            "speed": "100",
+            "power": "2",
+            "current": "28",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 79,
+          "name": "Cork - 15%",
+          "properties": {
+            "speed": "100",
+            "power": "3",
+            "current": "28",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 80,
+          "name": "Cork - 20%",
+          "properties": {
+            "speed": "100",
+            "power": "4",
+            "current": "28",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 81,
+          "name": "Cork - 25%",
+          "properties": {
+            "speed": "100",
+            "power": "5",
+            "current": "28",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 82,
+          "name": "Cork - 30%",
+          "properties": {
+            "speed": "100",
+            "power": "6",
+            "current": "28",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 83,
+          "name": "Cork - 35%",
+          "properties": {
+            "speed": "100",
+            "power": "7",
+            "current": "28",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 84,
+          "name": "Cork - 40%",
+          "properties": {
+            "speed": "100",
+            "power": "8",
+            "current": "28",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 85,
+          "name": "Cork - 45%",
+          "properties": {
+            "speed": "100",
+            "power": "9",
+            "current": "28",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 86,
+          "name": "Cork - 50%",
+          "properties": {
+            "speed": "100",
+            "power": "10",
+            "current": "28",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 87,
+          "name": "Cork - 55%",
+          "properties": {
+            "speed": "100",
+            "power": "11",
+            "current": "28",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 88,
+          "name": "Cork - 60%",
+          "properties": {
+            "speed": "100",
+            "power": "12",
+            "current": "28",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 89,
+          "name": "Cork - 65%",
+          "properties": {
+            "speed": "100",
+            "power": "13",
+            "current": "28",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 90,
+          "name": "Cork - 70%",
+          "properties": {
+            "speed": "100",
+            "power": "14",
+            "current": "28",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 91,
+          "name": "Cork - 75%",
+          "properties": {
+            "speed": "100",
+            "power": "15",
+            "current": "28",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 92,
+          "name": "Cork - 80%",
+          "properties": {
+            "speed": "100",
+            "power": "16",
+            "current": "28",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 93,
+          "name": "Cork - 85%",
+          "properties": {
+            "speed": "100",
+            "power": "17",
+            "current": "28",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 94,
+          "name": "Cork - 90%",
+          "properties": {
+            "speed": "100",
+            "power": "18",
+            "current": "28",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 95,
+          "name": "Cork - 95%",
+          "properties": {
+            "speed": "100",
+            "power": "19",
+            "current": "28",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 96,
+          "name": "Cork - Cut",
+          "properties": {
+            "speed": "50",
+            "power": "100",
+            "current": "80",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 59,
+          "name": "Leather - 10%",
+          "properties": {
+            "speed": "100",
+            "power": "27",
+            "current": "30",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 60,
+          "name": "Leather - 15%",
+          "properties": {
+            "speed": "100",
+            "power": "28",
+            "current": "30",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 61,
+          "name": "Leather - 20%",
+          "properties": {
+            "speed": "100",
+            "power": "29",
+            "current": "30",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 62,
+          "name": "Leather - 25%",
+          "properties": {
+            "speed": "100",
+            "power": "30",
+            "current": "30",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 63,
+          "name": "Leather - 30%",
+          "properties": {
+            "speed": "100",
+            "power": "31",
+            "current": "30",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 64,
+          "name": "Leather - 35%",
+          "properties": {
+            "speed": "100",
+            "power": "32",
+            "current": "30",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 65,
+          "name": "Leather - 40%",
+          "properties": {
+            "speed": "100",
+            "power": "33",
+            "current": "30",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 66,
+          "name": "Leather - 45%",
+          "properties": {
+            "speed": "100",
+            "power": "34",
+            "current": "30",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 67,
+          "name": "Leather - 50%",
+          "properties": {
+            "speed": "100",
+            "power": "35",
+            "current": "30",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 68,
+          "name": "Leather - 55%",
+          "properties": {
+            "speed": "100",
+            "power": "36",
+            "current": "30",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 69,
+          "name": "Leather - 60%",
+          "properties": {
+            "speed": "100",
+            "power": "37",
+            "current": "30",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 70,
+          "name": "Leather - 65%",
+          "properties": {
+            "speed": "100",
+            "power": "38",
+            "current": "30",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 71,
+          "name": "Leather - 70%",
+          "properties": {
+            "speed": "100",
+            "power": "39",
+            "current": "30",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 72,
+          "name": "Leather - 75%",
+          "properties": {
+            "speed": "100",
+            "power": "40",
+            "current": "30",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 73,
+          "name": "Leather - 80%",
+          "properties": {
+            "speed": "100",
+            "power": "41",
+            "current": "30",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 74,
+          "name": "Leather - 85%",
+          "properties": {
+            "speed": "100",
+            "power": "42",
+            "current": "30",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 75,
+          "name": "Leather - 90%",
+          "properties": {
+            "speed": "100",
+            "power": "43",
+            "current": "30",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 76,
+          "name": "Leather - 99%",
+          "properties": {
+            "speed": "100",
+            "power": "44",
+            "current": "30",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 77,
+          "name": "Leather - Cut",
+          "properties": {
+            "speed": "50",
+            "power": "100",
+            "current": "80",
+            "passes": "1"
+          }
+        }
+      ]
+    }
+  },
+  {
+    "name": "CO2-90W",
+    "materials": {
+      "raster": [
+        {
+          "id": 1,
+          "name": "1/4 Hard Wood (2)",
+          "properties": {
+            "speed": "100",
+            "power": "35"
+          }
+        },
+        {
+          "id": 6,
+          "name": "1/4 Soft Wood (2)",
+          "properties": {
+            "speed": "100",
+            "power": "24"
+          }
+        },
+        {
+          "id": 4,
+          "name": "1/8 Acrylic (2)",
+          "properties": {
+            "speed": "100",
+            "power": "22"
+          }
+        },
+        {
+          "id": 5,
+          "name": "x1",
+          "properties": {
+            "speed": "100",
+            "power": "100"
+          }
+        },
+        {
+          "id": 7,
+          "name": "1/4 Hard Wood (3)",
+          "properties": {
+            "speed": "100",
+            "power": "35"
+          }
+        },
+        {
+          "id": 8,
+          "name": "1/4 Soft Wood (3)",
+          "properties": {
+            "speed": "100",
+            "power": "24"
+          }
+        },
+        {
+          "id": 9,
+          "name": "1/8 Acrylic (3)",
+          "properties": {
+            "speed": "100",
+            "power": "22"
+          }
+        },
+        {
+          "id": 10,
+          "name": "x1 (2)",
+          "properties": {
+            "speed": "100",
+            "power": "100"
+          }
+        },
+        {
+          "id": 11,
+          "name": "1/4 Hard Wood (4)",
+          "properties": {
+            "speed": "100",
+            "power": "35"
+          }
+        },
+        {
+          "id": 12,
+          "name": "1/4 Soft Wood (4)",
+          "properties": {
+            "speed": "100",
+            "power": "24"
+          }
+        },
+        {
+          "id": 13,
+          "name": "1/8 Acrylic (4)",
+          "properties": {
+            "speed": "100",
+            "power": "22"
+          }
+        },
+        {
+          "id": 14,
+          "name": "x1 (3)",
+          "properties": {
+            "speed": "100",
+            "power": "100"
+          }
+        }
+      ],
+      "vector": [
+        {
+          "id": 9,
+          "name": "1/4 Soft Wood (2)",
+          "properties": {
+            "speed": "35",
+            "power": "100",
+            "current": "70",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 11,
+          "name": "1/8 Acrylic (2)",
+          "properties": {
+            "speed": "60",
+            "power": "100",
+            "current": "100",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 10,
+          "name": "3/16 - Cardboard",
+          "properties": {
+            "speed": "85",
+            "power": "50",
+            "current": "75",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 6,
+          "name": "Foamboard - Full Cut",
+          "properties": {
+            "speed": "100",
+            "power": "100",
+            "current": "32",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 5,
+          "name": "Foamboard - Half Cut",
+          "properties": {
+            "speed": "100",
+            "power": "100",
+            "current": "16",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Foamboard - Mark",
+          "properties": {
+            "speed": "100",
+            "power": "25",
+            "current": "10",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 7,
+          "name": "Greenfoam - Full Cut",
+          "properties": {
+            "speed": "100",
+            "power": "100",
+            "current": "55",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 4,
+          "name": "Monster Foam - Full Cut",
+          "properties": {
+            "speed": "100",
+            "power": "100",
+            "current": "64",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 3,
+          "name": "Monster Foam - Half Cut",
+          "properties": {
+            "speed": "100",
+            "power": "100",
+            "current": "32",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 8,
+          "name": "Mylar .007",
+          "properties": {
+            "speed": "50",
+            "power": "25",
+            "current": "50",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 12,
+          "name": "1/4 Soft Wood (3)",
+          "properties": {
+            "speed": "35",
+            "power": "100",
+            "current": "70",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 13,
+          "name": "1/8 Acrylic (3)",
+          "properties": {
+            "speed": "60",
+            "power": "100",
+            "current": "100",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 14,
+          "name": "3/16 - Cardboard (2)",
+          "properties": {
+            "speed": "85",
+            "power": "50",
+            "current": "75",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 15,
+          "name": "Foamboard - Full Cut (2)",
+          "properties": {
+            "speed": "100",
+            "power": "100",
+            "current": "32",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 16,
+          "name": "Foamboard - Half Cut (2)",
+          "properties": {
+            "speed": "100",
+            "power": "100",
+            "current": "16",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 17,
+          "name": "Foamboard - Mark (2)",
+          "properties": {
+            "speed": "100",
+            "power": "25",
+            "current": "10",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 18,
+          "name": "Greenfoam - Full Cut (2)",
+          "properties": {
+            "speed": "100",
+            "power": "100",
+            "current": "55",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 19,
+          "name": "Monster Foam - Full Cut (2)",
+          "properties": {
+            "speed": "100",
+            "power": "100",
+            "current": "64",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 20,
+          "name": "Monster Foam - Half Cut (2)",
+          "properties": {
+            "speed": "100",
+            "power": "100",
+            "current": "32",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 21,
+          "name": "Mylar .007 (2)",
+          "properties": {
+            "speed": "50",
+            "power": "25",
+            "current": "50",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 22,
+          "name": "1/4 Soft Wood (4)",
+          "properties": {
+            "speed": "35",
+            "power": "100",
+            "current": "70",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 23,
+          "name": "1/8 Acrylic (4)",
+          "properties": {
+            "speed": "60",
+            "power": "100",
+            "current": "100",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 24,
+          "name": "3/16 - Cardboard (3)",
+          "properties": {
+            "speed": "85",
+            "power": "50",
+            "current": "75",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 25,
+          "name": "Foamboard - Full Cut (3)",
+          "properties": {
+            "speed": "100",
+            "power": "100",
+            "current": "32",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 26,
+          "name": "Foamboard - Half Cut (3)",
+          "properties": {
+            "speed": "100",
+            "power": "100",
+            "current": "16",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 27,
+          "name": "Foamboard - Mark (3)",
+          "properties": {
+            "speed": "100",
+            "power": "25",
+            "current": "10",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 28,
+          "name": "Greenfoam - Full Cut (3)",
+          "properties": {
+            "speed": "100",
+            "power": "100",
+            "current": "55",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 29,
+          "name": "Monster Foam - Full Cut (3)",
+          "properties": {
+            "speed": "100",
+            "power": "100",
+            "current": "64",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 30,
+          "name": "Monster Foam - Half Cut (3)",
+          "properties": {
+            "speed": "100",
+            "power": "100",
+            "current": "32",
+            "passes": "1"
+          }
+        },
+        {
+          "id": 31,
+          "name": "Mylar .007 (3)",
+          "properties": {
+            "speed": "50",
+            "power": "25",
+            "current": "50",
+            "passes": "1"
+          }
+        }
+      ]
+    }
+  }
+]
