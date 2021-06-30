@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="LivingHinge.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.81012897"
+     inkscape:cx="83.320067"
+     inkscape:cy="328.34278"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="2055"
+     inkscape:window-height="1112"
+     inkscape:window-x="90"
+     inkscape:window-y="54"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g851"
+       transform="translate(22.816118,-21.05876)" />
+    <g
+       id="g861"
+       transform="translate(27.816118,-1.059)" />
+    <g
+       id="g991"
+       transform="translate(37.816118,-1.059)" />
+    <g
+       id="g995"
+       transform="translate(47.816118,-1.059)" />
+    <g
+       id="g999"
+       transform="translate(57.816118,-1.059)" />
+    <g
+       id="g1003"
+       transform="translate(67.816118,-1.059)" />
+    <g
+       id="g1007"
+       transform="matrix(0.93637279,0,0,0.96451269,55.334066,-16.12457)"
+       style="stroke-width:0.129321;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="rect888"
+       style="fill:none;stroke:#ff0000;stroke-width:0.11381"
+       d="m 10.057993,132.05692 h 7.886189 v 2.88618 h -7.886189 z m 0,-112.000016 h 7.886189 v 2.886189 H 10.057993 Z M 157.03358,132.0625 h 7.88619 v 2.88619 h -7.88619 z m -0.006,-112.005596 h 7.88619 v 2.886189 h -7.88619 z M 10.060546,10.06347 H 164.91163 V 144.93653 H 10.060546 Z m 29.172359,121.99345 h 7.886189 v 2.88618 h -7.886189 z m 0,-112.000016 h 7.886189 v 2.886189 H 39.232905 Z M 127.74791,132.0629 h 7.88619 v 2.88619 h -7.88619 z m -0.006,-112.005996 h 7.88619 v 2.886189 h -7.88619 z" />
+    <g
+       id="g1072"
+       transform="translate(72.612026,-5.5562502)">
+      <path
+         id="path848"
+         style="fill:none;stroke:#ff0000;stroke-width:0.189706"
+         d="m 46.782304,151.88332 v 2.9807 H 34.19031 v 0.0227 A 17.405147,17.405147 0 0 0 16.785688,172.29186 17.405147,17.405147 0 0 0 34.19031,189.697 v 0.0222 h 12.591994 v 2.98069 h 7.816578 v -2.98069 h 21.633822 v 2.98069 h 7.816059 v -40.81663 h -7.816059 v 2.9807 H 54.598882 v -2.9807 z" />
+      <path
+         id="path890"
+         style="fill:none;stroke:#ff0000;stroke-width:0.125;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -15.960559,192.6999 v -2.98071 h 12.5733395 v -0.0227 a 17.379363,17.405207 0 0 0 17.3788405,-17.4052 17.379363,17.405207 0 0 0 -17.3788405,-17.4052 v -0.0222 H -15.960559 v -2.9807 h -7.80499 v 2.9807 h -21.601795 v -2.9807 h -7.80449 v 40.81677 h 7.80449 v -2.98071 h 21.601795 v 2.98071 z" />
+    </g>
+    <path
+       id="path1851"
+       style="display:inline;fill:#ff0000;stroke:#ff0000;stroke-width:0.234576px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 114.48649,10 v 12.5 m 0,5 v 30 m 0,5 v 30 m 0,40 V 145 m 0,-47.5 v 30 M 111.48629,10 v 30 m 0,5 v 30 m 0,40 v 30 m 0,-65.000005 V 110 m -2.9998,-100 v 12.5 m 0,5 v 30 m 0,5 v 30 m 0,40 V 145 m 0,-47.5 v 30 M 105.48629,10 v 30 m 0,5 v 30 m 0,40 v 30 m 0,-65.000005 V 110 m -2.9998,-100 v 12.5 m 0,5 v 30 m 0,5 v 30 m 0,40 V 145 m 0,-47.5 v 30 M 99.486288,10 v 30 m 0,5 v 30 m 0,40 v 30 m 0,-65.000005 V 110 m -39,-100 v 12.5 m 0,5 v 30 m 0,5 v 30 m 0,40 V 145 m 0,-47.5 v 30 M 63.486089,10 v 30 m 0,5 v 30 m 0,40 v 30 m 0,-65.000005 V 110 M 66.486288,10 v 12.5 m 0,5 v 30 m 0,5 v 30 m 0,40 V 145 m 0,-47.5 v 30 M 69.486089,10 v 30 m 0,5 v 30 m 0,40 v 30 m 0,-65.000005 V 110 M 72.486288,10 v 12.5 m 0,5 v 30 m 0,5 v 30 m 0,40 V 145 m 0,-47.5 v 30 M 75.486089,10 v 30 m 0,5 v 30 m 0,40 v 30 m 0,-65.000005 V 110 M 78.486288,10 v 12.5 m 0,5 v 30 m 0,5 v 30 m 0,40 V 145 m 0,-47.5 v 30 M 81.486089,10 v 30 m 0,5 v 30 m 0,40 v 30 m 0,-65.000005 V 110 M 96.486487,10 v 12.5 m 0,5 v 30 m 0,5 v 30 m 0,40 V 145 m 0,-47.5 v 30 M 93.486288,10 v 30 m 0,5 v 30 m 0,40 v 30 m 0,-65.000005 V 110 m -3,-100 v 12.5 m 0,5 v 30 m 0,5 v 30 m 0,40 V 145 m 0,-47.5 v 30 m -6,-117.5 v 12.5 m 0,5 v 30 m 0,5 v 30 m 0,40 V 145 m 0,-47.5 v 30 M 87.488882,10 v 30 m -0.0028,5 v 30 m 0,40 v 30 m 0,-65.000005 V 110" />
+  </g>
+</svg>
